@@ -8,11 +8,11 @@
         "RepoUrl": "https://github.com/cultbaus/XIVComboExpanded",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
-        "DownloadLinkInstall": "https://github.com/cultbaus/Plugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkInstall": "https://github.com/cultbaus/Plugins/raw/main/plugins/XIVComboExpanded/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/cultbaus/Plugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/cultbaus/Plugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkTesting": "https://github.com/cultbaus/Plugins/raw/main/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/cultbaus/Plugins/raw/main/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1721510715"
     }
