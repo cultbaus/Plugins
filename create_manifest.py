@@ -6,7 +6,7 @@ from os.path import getmtime
 from zipfile import ZipFile
 from argparse import ArgumentParser
 
-DOWNLOAD_URL = 'https://github.com/{repo}/raw/master/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = 'https://github.com/{repo}/raw/main/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
