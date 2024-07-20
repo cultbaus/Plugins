@@ -9,6 +9,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
         "DownloadLinkInstall": "https://github.com/cultbaus/Plugins/raw/main/plugins/XIVComboExpanded/latest.zip",
+        "IconUrl": "https://github.com/cultbaus/Plugins/raw/main/plugins/XIVComboExpanded/images/icon.png",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/cultbaus/Plugins/raw/main/plugins/XIVComboExpanded/latest.zip",

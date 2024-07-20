@@ -7,6 +7,7 @@ from zipfile import ZipFile
 from argparse import ArgumentParser
 
 DOWNLOAD_URL = 'https://github.com/{repo}/raw/main/plugins/{plugin_name}/latest.zip'
+ICON_URL = 'https://github.com/{repo}/raw/main/plugins/{plugin_name}/images/icon.png'
 
 DEFAULTS = {
     'IsHide': False,
@@ -68,6 +69,7 @@ def add_extra_fields(repo_name, manifests):
     for manifest in manifests:
         # generate the download link from the internal assembly name
         manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(repo=repo_name, plugin_name=manifest["InternalName"])
+        manifest['IconUrl'] = ICON_URL.format(repo=repo_name, plugin_name=manifest["InternalName"])
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
