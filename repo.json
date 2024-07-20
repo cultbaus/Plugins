@@ -19,5 +19,26 @@
         "DownloadLinkUpdate": "https://github.com/cultbaus/Plugins/raw/main/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1721412918"
+    },
+    {
+        "Author": "Trevor",
+        "Name": "DelvCD: Trevor's version",
+        "Punchline": "yer da",
+        "Description": "weed",
+        "InternalName": "DelvCD",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/trevorm4/DelvCD",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/cultbaus/DelvCD/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/cultbaus/Plugins/raw/main/plugins/DelvCD/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/cultbaus/Plugins/raw/main/plugins/DelvCD/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/cultbaus/Plugins/raw/main/plugins/DelvCD/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1721412918"
     }
 ]
